@@ -1,5 +1,4 @@
-# Analyzing Gene Expression Data for  the cancer type Lung
-Squamous Cell Carcinoma (LUSC)  
+# Analyzing Gene Expression Data for  the cancer type Lung Squamous Cell Carcinoma (LUSC)  
 
 Data folder includes 2 files:
 
